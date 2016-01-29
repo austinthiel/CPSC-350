@@ -1,0 +1,7 @@
+Austin Thiel
+1780959
+Assignment3
+9 October 2014
+
+I worked entirely by myself on this assignment, aside from going to office hours for assistance. I did not create a way to point to individual students as they move through the queue, so I was unable to calculate the over10, median, and longest student wait time. I also had scope issues when moving everything out of main and placing it in its own class. It may not be complete, but I'm doing better than I was a few weeks ago.
+

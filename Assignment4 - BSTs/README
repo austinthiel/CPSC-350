@@ -1,0 +1,13 @@
+Austin Thiel & Brent Haub
+1780959 & 1811893
+Assignment4
+4 November 2014
+
+(referring to ourselves in the third person)
+
+They worked heavily together on this assignment. Austin handled the faculty class and all the respective menu functions, along with rollback, kind of. Brent handled the student class and every menu function that was tied to that, he also was responsible for writing the code that kept referential integrity within the two bst's so that no student had an adviser that didn't exist and vice versa, along with the file io and streaming, kind of. 
+
+(back to first person)
+
+We constantly worked separately and had to get together to merge our work, which was a pain. We have identical programs because of this. This was the best assigment we've had so far and have learned the most from it by far. Unfortunately we both got really close to getting both binary serialization and rollback but couldn't get either to work 100%.
+

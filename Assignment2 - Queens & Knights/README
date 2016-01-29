@@ -1,0 +1,11 @@
+Austin Thiel
+1780959
+Assignment 2
+
+I worked by myself for most of the assignment but collaborated lightly with Nico (who had a separate partner). I referenced geeksforgeeks and wikipedia's article for the N queens problem with backtracking, however I relied heavily on stanford's N queens problem documentation PDF; Their rowToTry functions were extremely helpful, and I did not change the variable names so you can reference what I used from their documentation. 
+
+My program can print 1 solution for N or M queens on an NxN board. I had major issues seg faulting when testing knights since their moves can go out of bounds of the board. The knightMovement checker is available to look at (along with the column checker), but is commented out of the program. If my logic issues are reasonably fixable, I'd be very appreciative if I could get some help from you to finish this assignment properly. Thanks.
+
+./Assignment2.exe
+
+
